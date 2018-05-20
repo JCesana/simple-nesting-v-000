@@ -18,7 +18,6 @@ def hopper
      }
   
   programmer_hash[:grace_hopper]
-  binding.pry
   programmer_hash[:alan_kay][:known_for]
   
   # programmer_hash[:josh_cesana] = "new student"
