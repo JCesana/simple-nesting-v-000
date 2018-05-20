@@ -16,15 +16,7 @@ def hopper
           :languages => ["C"]
         }
      }
-  
   programmer_hash[:grace_hopper]
-  programmer_hash[:alan_kay][:known_for]
-  
-  # programmer_hash[:josh_cesana] = "new student"
-  # programmer_hash[:josh_cesana]
-  # programmer_hash[:alan_kay][:known_for] = "RUBY"
-  # programmer_hash[:alan_kay][:known_for]
-
 end
 
 def alan_kay_is_known_for
